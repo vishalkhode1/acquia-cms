@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d0715bd941f2d3722a1a6620a0988703",
+    "content-hash": "514d391a8b54110ade903745a85c53d9",
     "packages": [
         {
             "name": "acquia/acquia_cms",

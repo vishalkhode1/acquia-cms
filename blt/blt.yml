@@ -1,2 +1,10 @@
 project:
   machine_name: acquia-cms-test
+git:
+  default_branch: master
+  remotes:
+    cloud: 'eevkhode@svn-21939.prod.hosting.acquia.com:eevkhode.git'
+deploy:
+  # If true, dependencies will be built during deploy. If false, you should commit dependencies directly.
+  build-dependencies: true
+  dir: ${repo.root}/deploy
